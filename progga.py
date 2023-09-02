@@ -1,1 +1,1 @@
-Anny is a good girl
+print("Anny is a good girl")
