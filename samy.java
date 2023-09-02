@@ -1,4 +1,4 @@
-class abc
+class samy
  {
   public static void main(String args[])
   {
